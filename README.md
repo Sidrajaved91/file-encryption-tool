@@ -17,3 +17,4 @@ This project demonstrates skills in **cybersecurity, file handling, and Python p
 git clone https://github.com/Sidrajaved91/file-encryption-tool.git
 cd file-encryption-tool
 pip install -r requirements.txt
+```
